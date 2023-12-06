@@ -4,9 +4,6 @@ import subprocess
 timeVal="16:35"
 url="https://XXXXXXXXXXXX.jp"
 
-def command():subprocess.run(['ls'])
-command()
-
 def task():
     webbrowser.open(url,new=1,autoraise=True)
     webbrowser.get('Safari')
