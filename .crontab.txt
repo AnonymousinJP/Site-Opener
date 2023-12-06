@@ -1,0 +1,2 @@
+0 9 * * * /Users/UserName/.venv/bin/python /Users/UserName/DirectoryName/doYourTask.py
+# echo
