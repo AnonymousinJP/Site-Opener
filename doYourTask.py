@@ -18,3 +18,8 @@ def randNum():
     elif num==3:doTasks2.task()
     else:pass
 randNum()
+
+#here is an example of crontab configuration
+"""
+0 9 * * * /Users/UserName/.venv/bin/python /Users/UserName/DirectoryName/doYourTask.py
+"""
